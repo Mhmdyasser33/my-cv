@@ -4,7 +4,6 @@ Welcome to my CV repository! This document provides an overview of my profession
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [CV Preview](#cv-preview)
 - [Getting Started](#getting-started)
 - [Updating the CV](#updating-the-cv)
 - [License](#license)
@@ -12,14 +11,6 @@ Welcome to my CV repository! This document provides an overview of my profession
 ## Introduction
 
 I'm Muhmmed Yasser a passionate and highly motivated professional with a strong background in front end development. This CV serves as a snapshot of my qualifications and experiences, designed for job applications, networking, and any other professional endeavors.
-
-## CV Preview
-
-Here's a quick preview of my CV:
-
-[![CV Preview](cv-preview.png)](cv.pdf)
-
-You can [download the PDF version](cv.pdf) for a more detailed view.
 
 ## Getting Started
 
